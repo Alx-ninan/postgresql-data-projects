@@ -34,9 +34,6 @@ The **DVD Rental** database is a sample PostgreSQL dataset used for training and
 ---
 
 ## 📌 Project Structure
-
-```text
 📁 SQL Projects/
-│
-├──[SQL queries & results](DVD Rental SQL Queries.ipynb)     
+[SQL queries & results](DVD%20Rental%20SQL%20Queries.ipynb)     
 
