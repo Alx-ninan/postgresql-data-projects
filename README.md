@@ -1,16 +1,42 @@
-# SQL Data Projects
+# 📽️ DVD Rental SQL Project
 
-This project showcases SQL queries using PostgreSQL and Jupyter Notebooks. The data is from the `dvdrental` sample database, and includes:
+This project demonstrates SQL querying skills using the **DVD Rental** sample database. It includes a Jupyter Notebook (`DVD Rental SQL Queries.ipynb`) with a wide range of queries from basic SELECT statements to advanced joins, aggregations, and subqueries.
 
-- Database connection setup
-- SELECT, JOIN, GROUP BY, and aggregation queries
+---
 
+## 🧠 Objectives
 
-## Tools Used
+- Explore and analyze a relational database schema using SQL
+- Practice writing optimized queries to solve real-world data problems
+- Demonstrate ability to connect PostgreSQL with Jupyter Notebooks
+- Showcase portfolio-ready data exploration skills
+
+---
+
+## 📊 Dataset
+
+The **DVD Rental** database is a sample PostgreSQL dataset used for training and demonstration purposes. It simulates a DVD rental store and includes tables such as:
+
+- `film`, `actor`, `category`
+- `customer`, `payment`, `rental`
+- `inventory`, `store`, `staff`
+
+---
+
+## 🛠️ Tools Used
+
 - PostgreSQL
-- Jupyter Notebook
-- SQLAlchemy
-- ipython-sql
+- PgAdmin
+- Jupyter Notebook (via Anaconda)
+- SQLAlchemy & ipython-sql for DB connection
+- Git & GitHub for version control
 
+---
 
+## 📌 Project Structure
 
+```text
+📁 SQL Projects/
+│
+├── DVD Rental SQL Queries.ipynb     # SQL queries & results
+└── README.md                        # This file
