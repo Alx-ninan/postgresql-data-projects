@@ -3,6 +3,11 @@
 This project demonstrates SQL querying skills using the **DVD Rental** sample database. It includes a Jupyter Notebook (`DVD Rental SQL Queries.ipynb`) with a wide range of queries from basic SELECT statements to advanced joins, aggregations, and subqueries.
 
 ---
+## 📌 Project Structure
+📁 SQL Projects/
+[SQL queries & results](DVD%20Rental%20SQL%20Queries.ipynb)   
+
+---
 
 ## 🧠 Objectives
 
@@ -32,8 +37,5 @@ The **DVD Rental** database is a sample PostgreSQL dataset used for training and
 - Git & GitHub for version control
 
 ---
-
-## 📌 Project Structure
-📁 SQL Projects/
-[SQL queries & results](DVD%20Rental%20SQL%20Queries.ipynb)     
+  
 
