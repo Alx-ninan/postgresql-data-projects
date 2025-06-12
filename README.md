@@ -5,7 +5,7 @@ This project demonstrates SQL querying skills using the **DVD Rental** sample da
 ---
 ## 📌 Project Structure
 📁 SQL Projects/
-[SQL queries & results](DVD%20Rental%20SQL%20Queries.ipynb)   
+[SQL queries & results-View Codes](DVD%20Rental%20SQL%20Queries.ipynb)   
 
 ---
 
